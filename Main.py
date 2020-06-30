@@ -6754,5 +6754,5 @@ def calculator(operation):
 
 print("MODE: a = Normal Calculator\n      "
                  "b = Sequence Calculator\n      "
-      "c = Conversion Calculator\n      d = dede")
+      "c = Conversion Calculator\n      d = ")
 calculator(input("Enter MODE: ").lower())
